@@ -7,5 +7,10 @@
 The `Folium` library in Python helps us analyze the location and geospatial data with ease and lets us create interactive maps. 
 
 **The idea of the project is to use the functionalities of folium and plot volcanoes positions on the map rendered by folium.**
-![Alt Text](https://github.com/Naziya-Parveen/visualization_with_folium/blob/master/videos/video1.gif)
-![Alt Text](https://github.com/Naziya-Parveen/visualization_with_folium/blob/master/videos/video2.gif)
+
+**A visualization of plotted markers:**
+![Alt Text](https://github.com/Naziya-Parveen/visualization_with_folium/blob/NaziyaParveen/videos/video1.gi)
+
+
+**A visualisation of plotted volcanoes using Folium Library**
+![Alt Text](https://github.com/Naziya-Parveen/visualization_with_folium/blob/NaziyaParveen/videos/video2.gi)
